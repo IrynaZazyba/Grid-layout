@@ -14,13 +14,11 @@ The class ‘jlab-cell- $’, where $ is a number from 1 to 12, takes $ / 12 of 
 
 ### HTML code example
     <div class="container">
-
-    <div class="jlab-row">
-        <div class="jlab-cell-6">
-            <h3>6/12</h3>
-        </div>
-        <div class="jlab-cell-6">
-            <h3>6/12</h3>
-        </div>
-    </div>
+         <div class="jlab-row">
+             <div class="jlab-cell-6">
+             <h3>6/12</h3>
+             </div>
+             <div class="jlab-cell-6">
+             <h3>6/12</h3>
+         </div>
     </div>
