@@ -2,8 +2,8 @@
 
 ### Structure description
 
-Grid Layout has the following structure:
-The ‘jlab-row’ class defines a row that occupies 100% of the width of the parent component.
+##### Grid Layout has the following structure:</br>
+The ‘jlab-row’ class defines a row that occupies 100% of the width of the parent component.</br>
 The class ‘jlab-cell- $’, where $ is a number from 1 to 12, takes $ / 12 of the width of jlab-row.
 
 
